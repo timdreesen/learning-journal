@@ -1,19 +1,16 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# LIVE DEMO [https://velvety-lamington-11b1bc.netlify.app/](https://velvety-lamington-11b1bc.netlify.app/)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This is a solo project from the 'Responsive Design' course of the coding school Scrimba. The assignment was to build a responsive website based on a [design in figma](https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learning-Journal-Blog).
+The two breakpoints given were 'mobile' and 'desktop'. At a later point I might add 'tablet' breakpoint and some Js to make this project feel more complete. However it does meet all the requirements at the moment.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Requirements:
 
-Happy Coding!
+- Build each page from scratch
+- Make all pages responsive
+    - Relative Units
+    - Mobile-first design
+    - Media queries
+    - Viewport meta tag
+- Follow the design spec
+
